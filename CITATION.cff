@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying paper when using this research software."
+type: software
+title: "WikiGap research code"
+repository-code: "https://github.com/reacher-z/WikiGap"
+authors:
+  - family-names: "Wang"
+    given-names: "Zining"
+  - family-names: "Zhang"
+    given-names: "Yuxuan"
+  - family-names: "Yoon"
+    given-names: "Dongwook"
+  - family-names: "Vincent"
+    given-names: "Nicholas"
+  - family-names: "Samir"
+    given-names: "Farhan"
+  - family-names: "Shwartz"
+    given-names: "Vered"
+preferred-citation:
+  type: article
+  title: "WikiGap: Promoting Epistemic Equity by Surfacing Knowledge Gaps Between English Wikipedia and other Language Editions"
+  authors:
+    - family-names: "Wang"
+      given-names: "Zining"
+    - family-names: "Zhang"
+      given-names: "Yuxuan"
+    - family-names: "Yoon"
+      given-names: "Dongwook"
+    - family-names: "Vincent"
+      given-names: "Nicholas"
+    - family-names: "Samir"
+      given-names: "Farhan"
+    - family-names: "Shwartz"
+      given-names: "Vered"
+  year: 2025
+  journal: "arXiv preprint"
+  doi: "10.48550/arXiv.2505.24195"
+  url: "https://arxiv.org/abs/2505.24195"

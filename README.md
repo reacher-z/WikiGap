@@ -76,6 +76,8 @@ This dependency-free check validates manifest-referenced files, JavaScript synta
 
 ## Citation
 
+Machine-readable citation metadata is available in [CITATION.cff](CITATION.cff). The BibTeX below cites the [arXiv preprint](https://arxiv.org/abs/2505.24195).
+
 ```bibtex
 @misc{wang2025wikigap,
   title={WikiGap: Promoting Epistemic Equity by Surfacing Knowledge Gaps Between English Wikipedia and other Language Editions},
